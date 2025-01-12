@@ -1,4 +1,4 @@
-<h6>Student Database Management System</h6>
+<h1>Student Database Management System</h1>
 
 <h4>Overview</h4>
 
