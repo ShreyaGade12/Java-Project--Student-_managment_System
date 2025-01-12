@@ -11,8 +11,8 @@ public class DBConnection {
             Class.forName("com.mysql.cj.jdbc.Driver");
 
             String url = "jdbc:mysql://localhost:3306/students";
-            String user = "root";
-            String password = "Log1234@4321"; 
+            String user = "Username";
+            String password = "Password"; 
 
            
             con = DriverManager.getConnection(url, user, password);
